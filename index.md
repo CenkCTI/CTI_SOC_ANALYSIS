@@ -3,4 +3,4 @@ layout: home
 title: Home
 ---
 
-Welcome to my Cyber Threat Intelligence blog.
+Welcome to my Cyber Threat Intelligence blog
